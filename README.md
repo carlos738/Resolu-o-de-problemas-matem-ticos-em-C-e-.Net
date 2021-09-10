@@ -1,2 +1,2 @@
-# Resolu-o-de-problemas-matem-ticos-em-C-e-.Net
+# RESOLUCAODEPROBLEMASMATEMATICOSEM c# E .net
 resolução de desafios matemáticos dos bootcamps da DIO
